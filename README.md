@@ -73,17 +73,14 @@ Financial institutions face major losses due to fraud. The goal of this project 
 
 ---
 
-## ▶️ How to Run
+## 📬 Contacts
 
-```bash
-git clone https://github.com/yourusername/fraud-detection-ml-project.git
-cd fraud-detection-ml-project
-jupyter notebook
-
----
-📬 Contact
 Gaurav Mishra
 📧 Email: 7mishragaurav@gmail.com
 🌐 LinkedIn: www.linkedin.com/in/gaurav-mishra-3788ba271
+
+---
+
+
 
 
