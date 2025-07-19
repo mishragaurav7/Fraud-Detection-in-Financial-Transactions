@@ -73,13 +73,6 @@ Financial institutions face major losses due to fraud. The goal of this project 
 
 ---
 
- **## 📁 How to Run**
-1. Clone the repository
-2. Install required libraries
-3. Run the notebook  in Jupyter
-
----
-
 ## 📬 Contacts 
 
 **Gaurav Mishra**  
