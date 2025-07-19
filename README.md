@@ -73,11 +73,11 @@ Financial institutions face major losses due to fraud. The goal of this project 
 
 ---
 
-## 📬 Contacts
+## 📬 Contacts 
 
-Gaurav Mishra
+**Gaurav Mishra**  
 📧 Email: 7mishragaurav@gmail.com
-🌐 LinkedIn: www.linkedin.com/in/gaurav-mishra-3788ba271
+[🔗 LinkedIn](www.linkedin.com/in/gaurav-mishra-3788ba271)  
 
 ---
 
