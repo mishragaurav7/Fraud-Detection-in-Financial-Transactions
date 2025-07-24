@@ -62,6 +62,16 @@ Financial institutions face major losses due to fraud. The goal of this project 
 
 ---
 
+## 🧠 Insights & Key Findings
+
+- Fraudulent transactions are **rare**, highlighting the need for oversampling techniques like **SMOTE** to avoid model bias.
+- Features such as `V1`, `V2`, and `Amount` showed **higher relative importance** in distinguishing fraud.
+- After scaling and resampling, the model was able to **minimize false negatives**, which is critical in fraud detection.
+- The model made **only one error** in missing a fraudulent case out of 96 frauds—making it highly reliable.
+- The cost of misclassifying a fraud is high in real-world applications; hence, a **high recall** (99%) is preferred over just accuracy.
+
+  ----
+
 ## 🛠️ Tech Stack
 
 - Python
